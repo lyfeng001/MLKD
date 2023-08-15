@@ -1,3 +1,3 @@
-# FastNAT
+# MLKD
 
-**FastNAT** is a nighttime tracker for UAV
+**MLKD** is a mutual-learning knowledge distillation framework for nighttime UAV tracking.
